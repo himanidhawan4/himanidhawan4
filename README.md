@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/himanidhawan-cloud">
+  <a href="https://github.com/himanidhawan4">
     <img src="https://img.shields.io/badge/GitHub-himanidhawan--cloud-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
