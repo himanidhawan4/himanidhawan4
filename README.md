@@ -121,7 +121,7 @@ secrets                IAM Analysis
   <tr>
     <td width="50%" valign="top">
 
-```
+
   <h3>🐍 Programming</h3>
 
   <p>
@@ -181,7 +181,7 @@ secrets                IAM Analysis
   </p>
 
 </td>
-```
+
 
   </tr>
 </table>
@@ -194,7 +194,7 @@ secrets                IAM Analysis
   <tr>
     <td width="50%" valign="top">
 
-```
+
   <h3>🎓 Computer Science</h3>
 
   <p>
@@ -233,7 +233,7 @@ secrets                IAM Analysis
 <table width="100%">
   <tr>
 
-```
+
 <td width="50%" valign="top">
 
   <h3>🔐 Release Portal Security Gate</h3>
@@ -292,7 +292,7 @@ secrets                IAM Analysis
   <p>🔄 <b>Learning & Building</b></p>
 
 </td>
-```
+
 
   </tr>
 </table>
@@ -321,7 +321,7 @@ secrets                IAM Analysis
   <tr>
     <td align="center">
 
-```
+
   <p>
     <b>Programming Fundamentals</b>
     <br>↓<br>
@@ -345,7 +345,7 @@ secrets                IAM Analysis
   </p>
 
 </td>
-```
+
 
   </tr>
 </table>
