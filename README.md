@@ -68,7 +68,7 @@ Secrets  Dependencies   IAM
 Scan     Scan           Checks
    │      │               │
    ▼      ▼               ▼
-detect-   OSV API      IAM Analysis
+detect-  OSV API      IAM Analysis
 secrets
    │      │               │
    └──────┼───────────────┘
@@ -307,12 +307,12 @@ Jenkins, GitHub Actions and infrastructure tools.
 <div align="center">
 
 <b>Learn</b>
- →  <b>Build</b>
- →  <b>Break</b>
- →  <b>Debug</b>
- →  <b>Understand</b>
- →  <b>Improve</b>
- →  <b>Repeat</b>
+ → <b>Build</b>
+ → <b>Break</b>
+ → <b>Debug</b>
+ → <b>Understand</b>
+ → <b>Improve</b>
+ → <b>Repeat</b>
 
 </div>
 
